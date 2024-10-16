@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Pawan Kumar</h1>
-<h3 align="center">A passionate Frontend, Backend developer from India</h3>
+<h3 align="center">A passionate Mobile and Website developer from India</h3>
 
-- 🌱 I’m currently learning **Next.js, TypeScript, trpc, Docker**
+- 🌱 I’m currently learning **React Native**
 
 - 👨‍💻 All of my projects are available at [https://pksingh1508.github.io/pawan/](https://pksingh1508.github.io/pawan/)
 
-- 💬 Ask me about **react.js, node.js**
+- 💬 Ask me about **Web and mobile Development**
 
 - 📫 How to reach me **pawankumarlearner@gmail.com**
 

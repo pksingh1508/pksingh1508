@@ -3,9 +3,9 @@
 
 - 🌱 I’m currently learning **React Native**
 
-- 👨‍💻 All of my projects are available at [https://pksingh1508.github.io/pawan/](https://pksingh1508.github.io/pawan/)
+- 👨‍💻 All of my projects are available at [https://pawan-kumar-jade.vercel.app/](https://pawan-kumar-jade.vercel.app/)
 
-- 💬 Ask me about **Web and mobile Development**
+- 💬 Ask me about **Mobile and Web Development**
 
 - 📫 How to reach me **pawankumarlearner@gmail.com**
 

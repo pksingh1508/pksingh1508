@@ -1,17 +1,15 @@
 <h1 align="center">Hi 👋, I'm Pawan Kumar</h1>
-<h3 align="center">A passionate Mobile and Website developer from India</h3>
+<h3 align="center">Mobile Developer</h3>
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently building project using **React Native**
 
-- 👨‍💻 All of my projects are available at [https://pawan-kumar-jade.vercel.app/](https://pawan-kumar-jade.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://pawankumar.site](https://pawankumar.site)
 
 - 💬 Ask me about **Mobile and Web Development**
 
 - 📫 How to reach me **pawankumarlearner@gmail.com**
 
-- 📄 Know about my experiences [https://res.cloudinary.com/dbym760el/image/upload/v1691555738/Resume/PawanKumar_qwvb99.pdf](https://res.cloudinary.com/dbym760el/image/upload/v1691555738/Resume/PawanKumar_qwvb99.pdf)
-
-- ⚡ Fun fact **I think I am funny.**
+- ⚡ Fun fact **Confident is the Key.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

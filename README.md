@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Pawan Kumar</h1>
-<h3 align="center">Coding today for AI-Driven Tomorrows.</h3>
+<h3 align="center">Software Engineer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pksingh1508&label=Profile%20views&color=0e75b6&style=flat" alt="pksingh1508" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pksingh1508" alt="pksingh1508" /></a> </p>
 
-- 🌱 I’m currently working as **React-Native developer.**
+- 🌱 I’m currently learning as **Unity and C#.**
 
 - 👨‍💻 All of my projects are available at [pawankumar.site](pawankumar.site)
 
 - 📫 How to reach me **pawankumarlearner@gmail.com**
 
-- 📄 Know about my experiences [https://res.cloudinary.com/dbym760el/image/upload/v1735497617/Resume/pawankumar.pdf](https://res.cloudinary.com/dbym760el/image/upload/v1735497617/Resume/pawankumar.pdf)
+- 📄 Know about my experiences [See Resume](https://res.cloudinary.com/dbym760el/image/upload/v1759737341/pawan_kumar_t3uzjm.pdf)
 
 - ⚡ Fun fact **Now Coding is about how good you at prompting.**
 

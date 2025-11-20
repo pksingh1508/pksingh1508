@@ -1,9 +1,8 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pksingh1508&label=Profile%20views&color=0e75b6&style=flat" alt="pksingh1508" /> </p>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pksingh1508" alt="pksingh1508" /></a> </p>
 
 # 💫 About Me:
 🔭 I’m currently working on Mobile app development using Expo<br>🌱 I’m currently learning game development<br>💬 Ask me about mobile and web development
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=pksingh1508&label=Profile%20views&color=0e75b6&style=flat" alt="pksingh1508" /> </p>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/pksingh1508) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pawan-kumar-731ab3239/) 

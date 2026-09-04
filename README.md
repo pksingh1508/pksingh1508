@@ -13,7 +13,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pksingh1508)
 [![Instagram](https://img.shields.io/badge/Instagram-Behind%20the%20code-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/pksingh1508)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pksingh1508&label=Profile%20views&color=0e75b6&style=flat" alt="pksingh1508" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=pksingh1508&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="pksingh1508" /> </p>
 
 </div>
 
@@ -33,16 +33,6 @@
 I build software where polished interfaces meet dependable systems. My favorite work lives across the whole delivery path—from the first component and API contract to database performance, automation, deployment, and the feedback loop after release.
 
 > **Current signal:** turning operational pain into maintainable software, one measurable improvement at a time.
-
-## `~/impact.log`
-
-```diff
-+ improved Twilio-based call workflows and operational efficiency by 20%
-+ automated CMS → CRM lead flows, improving lead-management efficiency by 60%
-+ shipped a job platform serving 1,000+ monthly visitors across 10+ countries
-+ lifted organic traffic by 45% with SSR, structured data, and technical SEO
-+ delivered 95+ Lighthouse performance with a fully responsive interface
-```
 
 ## `~/system-map`
 
@@ -77,25 +67,6 @@ flowchart LR
 
 </div>
 
-## `~/selected-work`
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🎓 LearniFi</h3>
-      <p>A full-stack ed-tech marketplace for discovering, purchasing, publishing, and consuming courses.</p>
-      <p><code>React</code> <code>Node.js</code> <code>Express</code> <code>MongoDB</code> <code>Tailwind</code></p>
-      <p><a href="https://learnifi-seven.vercel.app/"><b>Live ↗</b></a> · <a href="https://github.com/pksingh1508/LearniFi"><b>Source ↗</b></a></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🌍 EU Career Serwis</h3>
-      <p>A production immigration and employment platform connecting candidates with legal opportunities across Europe.</p>
-      <p><code>Next.js</code> <code>TypeScript</code> <code>Strapi</code> <code>Bigin CRM</code> <code>SEO</code></p>
-      <p><a href="https://eucareerserwis.pl/"><b>Live ↗</b></a> · <a href="https://github.com/pksingh1508/euproject"><b>Source ↗</b></a></p>
-    </td>
-  </tr>
-</table>
-
 ## `~/engineering-radar`
 
 | What I care about | How it shows up in my work |
@@ -110,12 +81,10 @@ flowchart LR
 
 <div align="center">
 
-![Pawan's GitHub activity](https://github-readme-activity-graph.vercel.app/graph?username=pksingh1508&bg_color=0d1117&color=00d9c0&line=7c3aed&point=ffffff&area=true&hide_border=true)
+[![Pawan's GitHub profile details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pksingh1508&theme=github_dark)](https://github.com/pksingh1508)
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=pksingh1508&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9C0&icon_color=7C3AED&text_color=C9D1D9" alt="Pawan's GitHub statistics" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pksingh1508&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=00D9C0&text_color=C9D1D9" alt="Pawan's most used languages" />
-
-![Pawan's contribution streak](https://nirzak-streak-stats.vercel.app/?user=pksingh1508&theme=dark&hide_border=true&background=0D1117&ring=00D9C0&fire=7C3AED&currStreakLabel=00D9C0)
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=pksingh1508&theme=github_dark" alt="Pawan's GitHub statistics" />
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pksingh1508&theme=github_dark" alt="Pawan's top languages by repository" />
 
 </div>
 

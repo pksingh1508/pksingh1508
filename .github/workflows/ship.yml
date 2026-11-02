@@ -1,0 +1,57 @@
+name: ship
+
+# A visitor opens an issue titled "ship --<type>" and this workflow
+# deploys their release to the profile README.
+on:
+  issues:
+    types: [opened]
+
+permissions:
+  contents: write
+  issues: write
+
+concurrency:
+  group: ship
+  cancel-in-progress: false
+
+jobs:
+  ship:
+    if: startsWith(github.event.issue.title, 'ship --')
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      - name: Build, test, deploy
+        id: ship
+        env:
+          ISSUE_TITLE: ${{ github.event.issue.title }}
+          ISSUE_USER: ${{ github.event.issue.user.login }}
+          REPLY_FILE: ${{ runner.temp }}/reply.md
+        run: node scripts/readme.mjs ship
+
+      - name: Commit release
+        if: steps.ship.outputs.shipped == 'true'
+        env:
+          ISSUE_USER: ${{ github.event.issue.user.login }}
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A
+          git commit -m "ship: release by @${ISSUE_USER}"
+          for i in 1 2 3; do git pull --rebase && git push && break; sleep 5; done
+
+      - name: Reply and close
+        if: always()
+        env:
+          GH_TOKEN: ${{ github.token }}
+          NUMBER: ${{ github.event.issue.number }}
+          REPLY: ${{ runner.temp }}/reply.md
+        run: |
+          if [ "${{ job.status }}" != "success" ] || [ ! -f "$REPLY" ]; then
+            echo "The pipeline failed before your release went out. Please try again in a minute." > "$REPLY"
+          fi
+          gh issue comment "$NUMBER" --repo "$GITHUB_REPOSITORY" --body-file "$REPLY"
+          gh issue close "$NUMBER" --repo "$GITHUB_REPOSITORY"
